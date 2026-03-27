@@ -88,13 +88,6 @@ Performed using:
 * Baseline model → `baseline model.ipynb`
 * Model selection → `model-selection.ipynb`
 
----
-
-## 📈 Output
-
-* Final processed dataset
-* Prediction-ready data
-
 
 ---
 

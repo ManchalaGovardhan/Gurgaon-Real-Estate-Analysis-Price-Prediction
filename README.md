@@ -94,7 +94,7 @@ Performed using:
 
 * Final processed dataset
 * Prediction-ready data
-* HTML report → `output_report.html`
+
 
 ---
 

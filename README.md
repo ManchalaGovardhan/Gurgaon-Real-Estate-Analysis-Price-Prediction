@@ -126,14 +126,10 @@ Performance comparison of multiple models
 Interactive Streamlit App for:
 Property analysis
 Real-time price prediction
+
 ▶️ How to Run this Project
-Clone the repository:
-git clone <your-repo-link>
-cd <project-folder>
-Install dependencies:
-pip install -r requirements.txt
 Run the Streamlit app:
-streamlit run app/app.py
+streamlit run app/Home.py
 
 📊 Results & Conclusion
 Built a robust end-to-end pipeline for real estate price prediction
